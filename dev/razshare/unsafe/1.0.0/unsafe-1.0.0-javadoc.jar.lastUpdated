@@ -1,8 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 29 02:35:21 CET 2023
+#Sun Dec 31 01:44:35 CET 2023
 https\://raw.githubusercontent.com/tncrazvan/artifacts/main/.error=
-https\://raw.githubusercontent.com/tncrazvan/artifacts/main/.lastUpdated=1703813721217
+https\://raw.githubusercontent.com/tncrazvan/artifacts/main/.lastUpdated=1703983474997
 https\://repo.maven.apache.org/maven2/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1703813721552
+https\://repo.maven.apache.org/maven2/.lastUpdated=1703983475567
 https\://repo1.maven.org/maven2/.error=
-https\://repo1.maven.org/maven2/.lastUpdated=1703813721446
+https\://repo1.maven.org/maven2/.lastUpdated=1703983475343
