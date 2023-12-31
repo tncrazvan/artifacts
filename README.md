@@ -33,7 +33,7 @@
   </repositories>
   ```
 
-- Add the library, for example `dev.razshare.unsafe`
+- Add the library toy our `pom.xml`, for example `dev.razshare.unsafe`
   ```xml
   <dependencies>
       <dependency>
