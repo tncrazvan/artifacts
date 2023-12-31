@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 29 02:37:12 CET 2023
+#Sun Dec 31 01:48:50 CET 2023
+unsafe-1.0.0.jar>=
 unsafe-1.0.0.jar>dev.razshare=
+unsafe-1.0.0.pom>=
 unsafe-1.0.0.pom>dev.razshare=
