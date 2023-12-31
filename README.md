@@ -1,6 +1,6 @@
 # Using Graddle Kotlin
 
-- Add repository to your `build.gradle.kts`
+- Add the repository to your `build.gradle.kts`
   ```kts
   repositories {
       maven {
@@ -23,7 +23,7 @@
 
 # Using Maven
 
-- Add repository to your `pom.xml`
+- Add the repository to your `pom.xml`
   ```xml
   <repositories>
       <repository>
@@ -33,7 +33,7 @@
   </repositories>
   ```
 
-- Add the library toy our `pom.xml`, for example `dev.razshare.unsafe`
+- Add the library to your `pom.xml`, for example `dev.razshare.unsafe`
   ```xml
   <dependencies>
       <dependency>
