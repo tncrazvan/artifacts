@@ -1,7 +1,7 @@
 # Using Graddle Kotlin
 
 - Add the repository to your `build.gradle.kts`
-  ```kts
+  ```kt
   repositories {
       maven {
           url = uri("https://raw.githubusercontent.com/tncrazvan/artifacts/main")
@@ -15,7 +15,7 @@
   ```
 
 - Add the library to your `build.gradle.kts`, for example `dev.razshare.unsafe`
-  ```kts
+  ```kt
   dependencies {
       implementation("dev.razshare:unsafe:1.0.0")
   }
